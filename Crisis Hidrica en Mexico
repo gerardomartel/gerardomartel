@@ -1,0 +1,28 @@
+# Crisis hídrica en México
+
+```mermaid
+graph TD;
+    A[Crisis hídrica en México]-->B(Causas);
+    B-->C[Cambio climático];
+    B-->D[Crecimiento poblacional];
+    B-->E[Mal manejo del agua];
+    A-->F(Problemas); 
+    F-->G[Escasez de agua];
+    F-->H[Contaminación del agua];
+    F-->I[Conflictos por el agua];
+    A-->J(Consecuencias);
+    J-->K[Daños a la agricultura];
+    J-->L[Riesgo para la salud];
+    J-->M[Migración por falta de agua];
+    A-->N(Relación con ODS);
+    N-->O[ODS 6 - Agua limpia y saneamiento];
+    N-->P[ODS 13 - Acción por el clima]; 
+    N-->Q[ODS 11 - Ciudades y comunidades sostenibles];
+```
+
+Este diagrama representa un análisis de la crisis hídrica en México, incluyendo:
+
+- Causas
+- Problemas
+- Consecuencias
+- Relación con Objetivos de Desarrollo Sostenible
